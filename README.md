@@ -6,8 +6,8 @@ I'm Mujeebah, a frontend Developer passionate about building intuitive experienc
 - 📫 Send a mail to mujeebatshittu@gmail.com
 - ⚡ When I'm not coding, I'm reading, writing, or doing some public health advocacy.
 
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mujeebat-shittu)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--
 **Mujeebat-shittu/Mujeebat-shittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
