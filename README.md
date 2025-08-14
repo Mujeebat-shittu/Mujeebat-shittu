@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm Mujeebah, a frontend Developer passionate about building intuitive experience that actually works.
+## Hi there 👋, I'm Mujeebah
+- A frontend Developer passionate about building intuitive experience that actually works.
 - 🌱 I work with React and TypeScript
 - 🤔 I’m looking for help with integrating Databases.
 - 📫 Send a mail to mujeebatshittu@gmail.com
