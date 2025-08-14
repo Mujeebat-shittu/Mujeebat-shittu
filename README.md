@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Mujeebah, a frontend Developer passionate about building intuitive experience that actually works.
+
+- 🌱 I’m currently learning React and TypeScript
+- 🤔 I’m looking for help with integrating Databases.
+- 📫 Send a mail to mujeebatshittu@gmail.com
+- ⚡ When I'm not coding, I'm reading, writing, or doing some public health advocacy.
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=mujeebat-shittu)](https://github.com/LordDashMe/github-contribution-stats/)
