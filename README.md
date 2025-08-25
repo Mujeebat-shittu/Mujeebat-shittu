@@ -1,7 +1,6 @@
 ## Hi there 👋, I'm Mujeebah
-- A frontend Developer passionate about building intuitive experience that actually works.
-- 🌱 I work with React and TypeScript
-- 🤔 I’m looking for help with integrating Databases.
+- A curious frontend Developer passionate about building intuitive experience that actually works.
+- 🌱 I'm currently learning React, TypeScript and Next.js
 - 📫 Send a mail to mujeebatshittu@gmail.com
 - ⚡ When I'm not coding, I'm reading, writing, or doing some public health advocacy.
 
